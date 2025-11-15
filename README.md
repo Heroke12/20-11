@@ -1,2 +1,3 @@
 # 20-11
-None
+My project in TaKaNu
+Contact : NamNotFound33
